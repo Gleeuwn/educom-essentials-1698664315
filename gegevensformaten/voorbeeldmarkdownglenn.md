@@ -5,4 +5,4 @@ Markdown is een opmaaktaal met als doel:
 
 Met deze opmaaktaal kun je dus woorden _schuin_ of __vet__ laten vormgeven. Ook te ___combineren___  
 
-Markdown is een snelle en makkelijke manier om overzichtelijk notities te maken
+Markdown is een snelle en makkelijke manier om overzichtelijk notities te maken. Groetjes, Glenn
