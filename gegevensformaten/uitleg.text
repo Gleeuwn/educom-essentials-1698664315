@@ -1,0 +1,11 @@
+Markeddown is een snelle eenvoudige opmaaktaal. Dit wordt met name gebruikt in projectdocumentatie
+
+JSON(javascript object notation) wordt hoofdzakelijk gebruikt voor uitwisseling van data tussen server en webapplicatie.
+
+XML (eXtendend Markup Language) wordt veel gebruikt als methode van gegevensoverdracht tussen systemen. In XML gaat het meer om structuur van informatie in plaats van presentatie van informatie.
+
+Character-sperated values, CSV is een bestandsformaat voor en opslaan een uitwisselen van gestructureerde gegevens. Het is een tekstbestand waarin gegevens zijn georganiseerd in tabulaire vorm.
+
+SVG, scalable vector graphics. Is een bestandsformaat dat vectoren weergeeft. Doordat deze uit vectoren bestaat kan deze oneindig geschaald worden.
+
+YAML wordt gebruikt in configuratiebestanden voor programmeeromgevingen. Zo gebruikt symfony dit om allerlei plugins te configureren. YAML heeft als doel makkelijk leesbaar, maar ok schrijfbaar te zijn. YAML is een superset op JSON.
