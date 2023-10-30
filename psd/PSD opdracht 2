@@ -1,0 +1,16 @@
+Totaalvolumemok= 150
+volumekoffie= 100
+volumemelk= x
+
+Sequentie: Melk_inschudden = true
+Sequentie: Stop_gezegd = false
+
+Iteratie: Zolang Melk_inschudden = true
+x+1
+Conditie: IF Stop_gezegd = true -> Melk_inschudden = false. Else Melk_inschudden = true
+Conditie: IF volumekoffie + volumemelk > totaalvolumemok -> Melk_inschudden = false. Else Melk inschudden = true
+
+IF melk_inschudden = false
+Return koffie
+
+

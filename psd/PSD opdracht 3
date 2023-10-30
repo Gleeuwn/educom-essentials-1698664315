@@ -1,0 +1,13 @@
+snickers = 10
+mars = 20
+prijs = x
+Input Keuze
+IF KEUZE = snickers -> snickers=x
+IF KEUZE = mars -> mars=x
+Return op display prijs
+
+Betaling = y
+If y > x
+Return snickers
+wisselgeld = y-x
+

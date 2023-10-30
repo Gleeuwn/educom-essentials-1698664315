@@ -1,0 +1,11 @@
+volume = X
+groot = 150
+klein = 75
+knopvolume_pressed = false
+x=klein
+keuzedrank = y
+IF knopvolume_pressed = true -> x = groot
+
+IF keuzeA -> y=WarmWater. KeuzeB -> y=Koffie. KeuzeC -> y=Cappuccino
+
+Return (x,y)
